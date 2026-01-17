@@ -1,5 +1,6 @@
 {
   "name": "gemini-hud",
+  "main": "out/main/index.js",
   "version": "1.0.0",
   "description": "A lightweight, always-on-top HUD for Google Gemini on Windows.",
   "author": "Aadil",

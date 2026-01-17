@@ -34,3 +34,4 @@ urldecode
 # Optional Caches
 .eslintcache
 .npm
+package-lock.json

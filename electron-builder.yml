@@ -2,7 +2,10 @@ appId: com.electron.app
 productName: gemini-hud
 directories:
   buildResources: build
+extraMetadata:
+  main: out/main/index.js
 files:
+  - out/**/*
   - '!**/.vscode/*'
   - '!src/*'
   - '!electron.vite.config.{js,ts,mjs,cjs}'
