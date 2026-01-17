@@ -5,7 +5,7 @@
   "author": "Aadil",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aadil/gemini-hud.git"
+    "url": "https://github.com/aadilahammad86/Gemini_Hud.git"
   },
   "scripts": {
     "format": "prettier --write .",
